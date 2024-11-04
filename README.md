@@ -1,6 +1,6 @@
 # Taiwu Chen
 
-[LinkedIn](#) | [GitHub](#) | [taiwuchen.com](#)
+[LinkedIn](#) | [taiwuchen.com](#)
 
 ## About Me
 
