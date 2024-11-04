@@ -1,16 +1,23 @@
-## Hi there 👋
+# Taiwu Chen
 
-<!--
-**taiwuchen/taiwuchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](#) | [GitHub](#) | [taiwuchen.com](#)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Engineering student at the University of Calgary, passionate about developing efficient and impactful software solutions. My experience spans full stack development, database administration, and embedded systems.
+
+## Skills
+
+- **Languages:** Python, C/C++, Java, HTML, CSS, JavaScript, Assembly, PHP, SQL
+- **Frameworks/Libraries:** React, Angular, Pandas, Numpy
+- **Tools:** Git, Linux, Bash, Excel, PostgreSQL, MySQL
+
+## Education
+
+**University of Calgary**  
+Bachelor of Science in Software Engineering  
+*Expected Graduation: May 2026*
+
+
+---
+Feel free to connect or explore my projects on GitHub!
