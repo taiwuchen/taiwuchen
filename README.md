@@ -16,7 +16,7 @@ I'm a Software Engineering student at the University of Calgary, passionate abou
 
 **University of Calgary**  
 Bachelor of Science in Software Engineering  
-*Expected Graduation: May 2026*
+Expected Graduation: May 2026
 
 
 ---
