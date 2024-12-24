@@ -9,7 +9,7 @@ I'm a Software Engineering student at the University of Calgary, passionate abou
 ## Skills
 
 - **Languages:** Python, C/C++, Java, HTML, CSS, JavaScript, Assembly, PHP, SQL
-- **Frameworks/Libraries:** React, Angular, Pandas, Numpy
+- **Frameworks/Libraries:** React, Angular, Swing, Pandas, Numpy, Pandas, Scikit-Learn, TensorFlow, Flask
 - **Tools:** Git, Linux, Bash, Excel, PostgreSQL, MySQL
 
 ## Education
