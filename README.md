@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a Software Engineering student at the University of Calgary, passionate about developing efficient and impactful software solutions. My experience spans full stack development, software design, database administration, and embedded systems.
+I'm a Software Engineering student at the University of Calgary, passionate about developing efficient and impactful software solutions. My experience spans full stack development, machine learning, software design, database administration, and embedded systems.
 
 ## Skills
 
